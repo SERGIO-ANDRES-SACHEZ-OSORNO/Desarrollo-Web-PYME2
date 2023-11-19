@@ -1,10 +1,13 @@
 import React from "react";
 import './store.css';
-
+import 'boxicons'
+import NICKE from '../components/images/img01.jpg'
 const Store =()=>(
-    <section>
-        <h1>Pagina de la tienda</h1>
-    </section>
+   
+      <section className="logo">
+
+        <a
+     
 )
 
 export default Store;
